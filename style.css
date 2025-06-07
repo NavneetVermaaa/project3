@@ -99,14 +99,14 @@ input:checked + label .description{
 
 
 .card[for="c1"]{
-    background-image: url(./images/1.jpeg);
+    background-image: url(1.jpeg);
 }
 .card[for="c2"]{
-    background-image: url(./images/2.jpeg);
+    background-image: url(2.jpeg);
 }
 .card[for="c3"]{
-    background-image: url(./images/3.jpeg);
+    background-image: url(3.jpeg);
 }
 .card[for="c4"]{
-    background-image: url(./images/5.jpeg);
+    background-image: url(5.jpeg);
 }
